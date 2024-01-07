@@ -28,5 +28,5 @@ If you want to start a new game, you can click the "Reset" button to generate a 
 
 ## How to Run
 
-You can check out a live demo of the game [here](#insert-live-demo-link).
+Just click the link at top right corner link.
 
